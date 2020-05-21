@@ -2,7 +2,7 @@
 
 Some useful tips and tricks for writing better Python code
 
-YouTube Video: https://www.youtube.com/watch?v=C-gEQdGVXbk&t=1758s
+YouTube Video: https://www.youtube.com/watch?v=C-gEQdGVXbk
 
 ## Content:
 1) Ternary Conditionals

@@ -4,7 +4,7 @@ Some useful tips and tricks for writing better Python code
 
 YouTube Video: https://www.youtube.com/watch?v=C-gEQdGVXbk&t=1758s
 
-# Content:
+## Content:
 1) Ternary Conditionals
 2) Underscore Placeholders
 3) Context Managers

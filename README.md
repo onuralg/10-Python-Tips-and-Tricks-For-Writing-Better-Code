@@ -1,6 +1,6 @@
 # 10-Python-Tips-and-Tricks-For-Writing-Better-Code
 
-Some useful tips and tricks for writing better Python code
+Some useful tips and tricks for writing better Python code.
 
 YouTube Video: https://www.youtube.com/watch?v=C-gEQdGVXbk
 
